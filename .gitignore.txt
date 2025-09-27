@@ -1,0 +1,2 @@
+__pycache__/
+/omniparserserver/__pycache__/
